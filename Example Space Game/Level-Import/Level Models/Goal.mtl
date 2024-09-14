@@ -1,0 +1,28 @@
+# Blender MTL File: 'RedLevel2024.blend'
+# Material Count: 2
+
+newmtl green
+Ns 224.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.002116 0.006372 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Normal_OpenGL.png
+map_Ns C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Roughness.png
+refl C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Metallic.png
+
+newmtl yellow
+Ns 224.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.002116 0.006372 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.000000 C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Normal_OpenGL.png
+map_Ns C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Roughness.png
+refl C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\textures\\segment_ball_coupler low_subspainter_Metallic.png

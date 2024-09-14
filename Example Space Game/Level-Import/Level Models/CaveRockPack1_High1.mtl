@@ -1,0 +1,13 @@
+# Blender MTL File: 'RedLevel2024.blend'
+# Material Count: 1
+
+newmtl CaveRockPack1_Base.001
+Ns 738.599973
+Ka 1.000000 1.000000 1.000000
+Kd 0.341000 0.341000 0.341000
+Ks 0.604000 0.604000 0.604000
+Ke 0.035601 0.017642 0.008023
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ks C:\\Users\\Nathan\\Documents\\Blender\\Model Dump\\CaveRockPack1_Obj\\CaveRockPack1_Base_Specular.png
